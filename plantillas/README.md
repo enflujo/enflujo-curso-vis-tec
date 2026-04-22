@@ -4,11 +4,41 @@ Estas plantillas son puntos de partida. La idea no es llenarlas como un formular
 
 ## Cómo usarlas
 
-1. Copia la carpeta de la plantilla que mejor se ajuste a tu proyecto.
-2. Cambia los textos de ejemplo por el problema, los datos, las preguntas y los hallazgos de tu investigación.
-3. Reemplaza los enlaces de visualizaciones de Observable, imágenes o archivos de datos.
-4. Abre `index.html` en el navegador para revisar la página.
-5. Publica la carpeta en GitHub Pages, Netlify, Vercel u otro servicio de sitio estático.
+Este directorio funciona como una biblioteca de plantillas. Para trabajar en un proyecto propio, lo más claro es crear un repositorio nuevo y copiar allí el contenido de la plantilla elegida.
+
+La guía completa para descargar plantillas, crear un repositorio propio y publicar con GitHub Pages está en [flujo-de-trabajo.md](../flujo-de-trabajo.md).
+
+### Paso a paso
+
+1. Elige la plantilla que mejor se ajuste a tu proyecto.
+2. Crea un repositorio nuevo en GitHub Desktop. Ese será el repositorio de tu proyecto.
+3. Copia los archivos que están dentro de la plantilla elegida.
+4. Pégalos en la raíz del repositorio nuevo, de forma que `index.html` quede directamente dentro de la carpeta principal del proyecto.
+5. Abre esa carpeta nueva en Visual Studio Code.
+6. Abre `index.html` con Live Server para revisar la página.
+7. Cambia los textos de ejemplo por el problema, los datos, las preguntas y los hallazgos de tu investigación.
+8. Reemplaza los enlaces de visualizaciones de Observable, imágenes o archivos de datos.
+9. Sube el proyecto a GitHub y publícalo con GitHub Pages desde la rama `main` y la carpeta `/root`.
+
+La estructura recomendada para publicar en GitHub Pages es esta:
+
+```text
+mi-proyecto/
+  index.html
+  style.css
+  script.js
+  datos.csv
+```
+
+No todas las plantillas tienen todos esos archivos. Algunas solo tienen `index.html` y `style.css`.
+
+## Qué archivo se edita
+
+- `index.html`: cambia textos, títulos, estructura, enlaces, créditos e iframes.
+- `style.css`: cambia colores, tamaños, espaciados, tipografías y distribución.
+- `script.js`: cambia datos de ejemplo, filtros, interacciones y comportamiento dinámico.
+- `datos.csv`: cambia datos tabulares. Evita usar comas dentro de una celda de texto.
+- `datos.json`: cambia datos estructurados cuando necesites más detalle que una tabla simple.
 
 ## Plantillas incluidas
 
@@ -23,6 +53,8 @@ Para la semana 3 y la semana 6. Sirve para proyectos que necesitan construir un 
 ### 03 - Datos locales
 
 Para la semana 4. Sirve para practicar el paso de datos a componentes dentro de una página. Incluye un CSV y un JSON de ejemplo, más una pequeña visualización hecha con HTML, CSS y JavaScript.
+
+Importante: esta plantilla debe revisarse con Live Server para que el navegador pueda cargar `datos.csv`.
 
 ### 04 - Componentes dinámicos
 

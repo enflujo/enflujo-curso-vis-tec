@@ -14,6 +14,12 @@ Antes de empezar, cada estudiante debe preparar estas herramientas:
 3. Crear una cuenta gratuita en [GitHub](https://github.com/). La usaremos para guardar los proyectos y publicarlos como sitios web gratuitos con GitHub Pages.
 4. Instalar [GitHub Desktop](https://desktop.github.com/). Esta aplicación facilita descargar repositorios, guardar cambios y subirlos a GitHub sin usar la terminal.
 
+## Flujo de trabajo
+
+Este repositorio funciona como una biblioteca de plantillas del curso. Para evitar confusiones con GitHub Pages, lo recomendado es crear un repositorio nuevo por cada proyecto y copiar allí el contenido de la plantilla elegida.
+
+La guía completa está en [flujo-de-trabajo.md](flujo-de-trabajo.md).
+
 ## Plantillas
 
 Las plantillas están en la carpeta [plantillas](plantillas/README.md). Están pensadas como puntos de partida para pasar de una visualización aislada a una publicación web con estructura narrativa.
@@ -64,6 +70,7 @@ Presentaciones finales.
 Estos referentes muestran distintas formas de narrar, explorar y publicar información en internet.
 
 <!-- prettier-ignore-start -->
+
 <table>
   <tr>
     <td width="33%" valign="top"><a href="https://heartsandminds.odi.digital/"><img src="https://heartsandminds.odi.digital/assets/images/thumb.jpg" alt="Vista previa de Hearts and Minds" width="260"></a><br><strong><a href="https://heartsandminds.odi.digital/">Hearts and Minds</a></strong><br><sub>Narrativa visual interactiva</sub></td>
