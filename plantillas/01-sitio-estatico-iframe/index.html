@@ -26,14 +26,25 @@
       <section class="visualizacion" aria-labelledby="titulo-viz">
         <div class="encabezado-viz">
           <h2 id="titulo-viz">Visualización principal</h2>
-          <p>Reemplaza el enlace del iframe por el enlace embebido de tu cuaderno de Observable.</p>
+          <p>Reemplaza este iframe por el código embebido de tu cuaderno de Observable.</p>
         </div>
 
         <iframe
-          title="Visualización de ejemplo"
-          src="https://observablehq.com/embed/@observablehq/plot?cells=chart"
+          title="Visualización de ejemplo tomada de Observable"
+          src="https://observablehq.com/embed/@d3/bar-chart?cells=chart"
           loading="lazy">
         </iframe>
+
+        <aside class="pasos-observable" aria-labelledby="titulo-observable">
+          <h3 id="titulo-observable">Cómo embeber desde Observable</h3>
+          <ol>
+            <li>Publica el cuaderno o compártelo con enlace. Los cuadernos privados necesitan una llave especial.</li>
+            <li>En Observable, abre el menú de la celda o el menú del cuaderno y busca la opción <strong>Embed</strong> o <strong>Embed cells</strong>.</li>
+            <li>Selecciona la celda que quieres mostrar. Para que aparezca en la lista, normalmente debe tener nombre, por ejemplo <code>chart = ...</code>.</li>
+            <li>Copia el código de la opción <strong>Iframe</strong> y pégalo en este lugar, reemplazando el iframe de ejemplo.</li>
+            <li>Revisa la altura. Si la visualización queda cortada, ajusta la altura del iframe en CSS o en el atributo <code>height</code>.</li>
+          </ol>
+        </aside>
 
         <p class="nota">
           Fuente: nombre de la fuente, fecha de consulta. Metodología: breve nota sobre limpieza, filtros o decisiones de diseño.
