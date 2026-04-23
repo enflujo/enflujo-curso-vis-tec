@@ -108,9 +108,14 @@ Estos referentes muestran distintas formas de narrar, explorar y publicar inform
     <td width="33%" valign="top"><a href="https://arte.estadao.com.br/brasil/adocao/criancas/"><img src="https://arte.estadao.com.br/brasil/adocao/criancas/media/images/share/1200x1200.png?v=0.2.25" alt="Vista previa de Crianças" width="260"></a><br><strong><a href="https://arte.estadao.com.br/brasil/adocao/criancas/">Crianças</a></strong><br><sub>Periodismo de datos</sub></td>
   </tr>
   <tr>
+    <td width="33%" valign="top"><a href="https://pasadoimpreso.uniandes.edu.co/mujeres-de-prensa"><img src="http://pasadoimpreso.uniandes.edu.co/uploads/attachments/cjl9sulez00idmn1xgg69slkh-mujeres-de-prensa.full.jpg" alt="Vista previa de Mujeres de prensa" width="260"></a><br><strong><a href="https://pasadoimpreso.uniandes.edu.co/mujeres-de-prensa">Mujeres de prensa</a></strong><br><sub>Archivo y narrativa histórica</sub></td>
+    <td width="33%" valign="top"><a href="https://historiasinternet.uniandes.edu.co/"><img src="https://historiasinternet.uniandes.edu.co//portada_historia_internet.jpg" alt="Vista previa de Historias de internet" width="260"></a><br><strong><a href="https://historiasinternet.uniandes.edu.co/">Historias de internet</a></strong><br><sub>Narrativa web</sub></td>
+    <td width="33%" valign="top"><a href="https://haciendocaminos.uniandes.edu.co/"><img src="http://haciendocaminos.uniandes.edu.co//imagen_OG.png" alt="Vista previa de Haciendo caminos" width="260"></a><br><strong><a href="https://haciendocaminos.uniandes.edu.co/">Haciendo caminos</a></strong><br><sub>Proyecto interactivo</sub></td>
+  </tr>
+  <tr>
     <td width="33%" valign="top"><a href="https://intuitionanalytics.com/other/knowledgeDatabase/#i=1024"><img src="http://moebio.com/research/knowledgeDatabase/resources/knowledge.png" alt="Vista previa de Knowledge Database" width="260"></a><br><strong><a href="https://intuitionanalytics.com/other/knowledgeDatabase/#i=1024">Knowledge Database</a></strong><br><sub>Mapa de conocimiento</sub></td>
-    <td width="33%" valign="top"></td>
-    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top"><a href="https://enflujo.com/proyectos/"><img src="https://enflujo.com//imgs/og-EnFlujo-predeterminado.jpg" alt="Vista previa de proyectos de EnFlujo" width="260"></a><br><strong><a href="https://enflujo.com/proyectos/">Proyectos de EnFlujo</a></strong><br><sub>Portafolio de proyectos digitales</sub></td>
+    <td width="33%" valign="top"><a href="https://www.dddrawings.com/lab/"><img src="https://dddrawings.com/estaticos/defunciones.D-gt_fNX_2gdGoG.jpeg" alt="Vista previa de dddrawings lab" width="260"></a><br><strong><a href="https://www.dddrawings.com/lab/">dddrawings lab</a></strong><br><sub>Experimentos de visualización de datos y animación</sub></td>
   </tr>
 </table>
 <!-- prettier-ignore-end -->
