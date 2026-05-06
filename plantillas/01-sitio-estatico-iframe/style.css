@@ -30,6 +30,22 @@ body {
   border-bottom: 1px solid var(--linea);
 }
 
+.grafica {
+  display: block;
+  width: 100%;
+  border: 1px solid var(--linea);
+  border-radius: 8px;
+}
+
+.imagen-centrada {
+  display: block;
+  width: 100%;
+  max-width: 720px;
+  margin: 1.5rem auto;
+  border: 1px solid var(--linea);
+  border-radius: 8px;
+}
+
 .curso,
 .autoria,
 .nota,

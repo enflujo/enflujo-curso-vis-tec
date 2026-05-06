@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2082.3025"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1051.743164 -968.000000 2082.302490 1938.000000" height="1938.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 105.044357,-450.264130 L 182.299286,-586.537720"
+              class="id_Videocine id_Una_pequeña_confusión" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 83.602852,-431.945526 L -323.659241,-279.131042"
+              class="id_Videocine id_Déjame_estar_contigo" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 112.577621,-438.653656 L 271.361328,-453.951721"
+              class="id_Videocine id_Loco_por_ella" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 82.672226,-438.088898 L -53.300411,-446.022858"
+              class="id_Videocine id_Mamá_reinventada" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 111.017380,-430.416138 L 371.830170,-297.791962"
+              class="id_Videocine id_Mirreyes_vs_Godinez:_Las_Vegas"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 91.321426,-450.816254 L 23.112854,-597.482361"
+              class="id_Videocine id_Desastre_en_familia" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 106.104324,-424.826874 L 283.921051,-164.368317"
+              class="id_Videocine id_Una_historia_de_Amor_y_Guerra"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 84.980736,-445.250824 L -147.870148,-592.977600"
+              class="id_Videocine id_Tormento" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 85.155624,-428.910248 L -123.234482,-290.359161"
+              class="id_Videocine id_Borrón_y_vida_nueva" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.683456,-273.668274 L 92.559364,-423.104218"
+              class="id_Sergio_López_Aguirre id_Videocine" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.042110,-244.638046 L 2.865684,35.480492"
+              class="id_Sergio_López_Aguirre id_Cinépolis" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 467.923340,-791.925049 L 295.168976,-756.953857"
+              class="id_Sony id_Turno_Nocturno" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 496.540161,-789.300110 L 624.068176,-737.967651"
+              class="id_Sony id_El_callejón_de_los_milagros"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.964722,-890.924988 L 471.125183,-804.531921"
+              class="id_María_Fernanda_Bateman id_Sony" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 341.797058,-903.695374 L 198.380661,-934.394165"
+              class="id_María_Fernanda_Bateman id_Univisión"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.460453,41.103775 L -219.137207,-123.679626"
+              class="id_Cinépolis id_Sujo" stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.882960,53.960567 L 142.714127,84.954430"
+              class="id_Cinépolis id_La_Cocina" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -13.644032,51.550964 L -155.178299,62.445244"
+              class="id_Cinépolis id_Corina" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -9.319661,60.981537 L -183.007523,233.858536"
+              class="id_Cinépolis id_Guten_Tag_Ramón" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 10.957896,38.912769 L 115.837898,-85.982193"
+              class="id_Cinépolis id_¡Qué_huevos,_Sofía!" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 5.129980,64.905670 L 104.536728,442.561279"
+              class="id_Cinépolis id_Un_cuento_de_pescadores:_La_maldición_de_la_miringua"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 8.632119,63.492218 L 120.507889,263.580780"
+              class="id_Cinépolis id_Los_Adioses" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 8.770307,37.385571 L 190.832672,-280.288635"
+              class="id_Cinépolis id_Autos,_mota_y_rocanrrol"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.310156,65.168861 L -25.452333,201.161804"
+              class="id_Cinépolis id_Soy_Frankelda" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.223725,36.458519 L -55.522999,-92.740746"
+              class="id_Cinépolis id_La_Celda_de_los_Milagros"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.749223,65.257523 L -43.714100,374.998352"
+              class="id_Cinépolis id_No_me_sigas" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 297.065033,11.390363 L 16.182928,48.438293"
+              class="id_Daniela_Arguedas id_Cinépolis" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 324.265930,0.886138 L 455.616058,-90.120865"
+              class="id_Daniela_Arguedas id_Paramount" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.973145,678.353394 L 397.282318,510.353882"
+              class="id_Piano id_El_Jockey" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 388.858490,699.385559 L 548.387634,770.964355"
+              class="id_Piano id_Leonora" stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.947906,680.417297 L 541.838684,418.267670"
+              class="id_Piano id_El_Monstruo_de_Xibalba" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 378.334595,707.908020 L 408.104370,845.973450"
+              class="id_Piano id_El_Diablo_en_el_Camino" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 517.053650,614.989441 L 388.307526,686.000488"
+              class="id_María_Ester_Bernal_Quezada id_Piano"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 542.681885,599.443848 L 671.070190,514.139832"
+              class="id_María_Ester_Bernal_Quezada id_Alfaville"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -325.421783,12.845478 L -213.796494,411.247223"
+              class="id_Disney id_Mesa_de_regalos" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -350.381287,148.225525 L -331.542297,13.257684"
+              class="id_Sofía_Castilla_Sarky id_Disney" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -338.162415,158.529068 L -12.980762,54.952225"
+              class="id_Sofía_Castilla_Sarky id_Cinépolis" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -538.347229,-267.917450 L -455.484314,-153.110596"
+              class="id_Artegios id_De_luz_y_de_las_sombras"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -561.447815,-284.539368 L -695.351929,-326.229828"
+              class="id_Artegios id_La_Falla" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -545.594421,-295.001923 L -515.865295,-584.654297"
+              class="id_Artegios id_Hilando_Sones" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -537.968445,-291.960602 L -346.162231,-540.797913"
+              class="id_Artegios id_El_último_viaje" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -702.131531,-343.654755 L -633.965393,-460.838684"
+              class="id_La_Falla id_José_Ramón_Mikelajauregui"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -260.335236,-411.579956 L -533.490906,-286.332275"
+              class="id_María_Josefina_Parra_Acuña id_Artegios"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -261.700134,-417.777069 L -435.459442,-417.141724"
+              class="id_María_Josefina_Parra_Acuña id_FICUNAM"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.816147,644.743896 L -198.343582,608.688721"
+              class="id_Pimienta id_Lluvia" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.895248,661.719543 L 91.587761,925.483398"
+              class="id_Pimienta id_Memory" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 76.858513,941.830933 L -57.954212,954.004700"
+              class="id_Memory id_Michel_Franco" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.316322,640.460449 L 230.863983,580.960815"
+              class="id_Pimienta id_Lumbrensueño" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 74.285133,639.980347 L -42.726982,581.120117"
+              class="id_Pimienta id_No_nos_moverán" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -52.183586,588.851807 L -2.320197,771.844666"
+              class="id_No_nos_moverán id_Víctor_Leycegui" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 197.749573,757.584412 L 98.253448,657.365906"
+              class="id_Regina_Serratos id_Pimienta" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 221.999649,762.080688 L 361.491028,699.393616"
+              class="id_Regina_Serratos id_Piano" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -232.184174,907.951416 L -170.446381,782.178406"
+              class="id_Neverlanding id_Efímera" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -148.920929,770.300110 L -13.292476,784.730103"
+              class="id_Efímera id_Víctor_Leycegui" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -342.052338,729.383423 L -245.897629,908.205444"
+              class="id_Alejandro_Sugich id_Neverlanding" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -353.570465,730.507996 L -393.245605,859.355713"
+              class="id_Alejandro_Sugich id_Canacine" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 795.170471,24.944733 L 779.588013,156.123459"
+              class="id_CanZion id_Nosotros_los_de_la_fe" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 941.745605,102.855896 L 809.568726,18.143347"
+              class="id_Abraham_Diaz id_CanZion" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 951.297852,125.630867 L 919.687134,276.468201"
+              class="id_Abraham_Diaz id_Mantarraya" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -684.116943,332.303680 L -650.402710,478.533051"
+              class="id_Corazón id_1938,_cuando_el_petróleo_fue_nuestro"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -696.333679,305.573761 L -779.870483,191.192535"
+              class="id_Corazón id_Buen_Salvaje" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -649.541626,115.019333 L -684.726440,302.943329"
+              class="id_Libertad_Rodríguez id_Corazón" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -640.735535,114.003258 L -519.110474,390.175964"
+              class="id_Libertad_Rodríguez id_IMCINE" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -228.959778,-782.011780 L -326.735291,-893.486694"
+              class="id_Mandarina_Cine id_Arillo_de_Hombre_Muerto"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.090988,-771.551453 L -72.670631,-778.715698"
+              class="id_Mandarina_Cine id_La_frontera_invisible"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -233.853775,-773.265381 L -486.727783,-816.544312"
+              class="id_Mandarina_Cine id_Impostor(es)" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -233.930573,-768.703613 L -623.096008,-715.511902"
+              class="id_Mandarina_Cine id_Después" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.376442,-776.467468 L -354.485657,-717.586182"
+              class="id_La_frontera_invisible id_Carlos_Hernández_Velázquez"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1.847539,-944.163879 L -207.270142,-779.997375"
+              class="id_Alondra_Martínez id_Mandarina_Cine" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -355.122009,-719.782166 L -233.115982,-765.474182"
+              class="id_Carlos_Hernández_Velázquez id_Mandarina_Cine"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.342989,-952.855774 L -142.111786,-947.497681"
+              class="id_Alondra_Martínez id_Avena_Distribución"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -354.292297,-716.439026 L 92.003677,-773.965454"
+              class="id_Carlos_Hernández_Velázquez id_Fábula"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 449.742004,110.178177 L 283.049469,366.596222"
+              class="id_Mantícora id_Pérdida_Total" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 304.988281,186.944046 L 444.965759,105.168480"
+              class="id_José_Luis_Mejía_Razo id_Mantícora" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 278.597046,187.848648 L 14.751201,57.061657"
+              class="id_José_Luis_Mejía_Razo id_Cinépolis" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -774.341003,-198.059921 L -755.971375,-571.255554"
+              class="id_Benuca id_Goya" stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -787.152893,-191.977936 L -904.411865,-278.407623"
+              class="id_Benuca id_El_Arranque" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -761.752991,-176.190964 L -635.634888,-111.008423"
+              class="id_Benuca id_Un_mundo_mejor" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -776.056824,-168.110016 L -785.411682,-24.997688"
+              class="id_Benuca id_Las_Mutaciones" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -779.011414,-197.553268 L -841.941711,-429.165192"
+              class="id_Benuca id_Itu_Ninu:_Cumbres_de_Maíz"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -743.933289,-576.373596 L -637.723755,-483.668396"
+              class="id_Goya id_José_Ramón_Mikelajauregui" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -935.737732,-119.472450 L -789.025208,-177.556488"
+              class="id_Fernando_Montes_de_Oca id_Benuca" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -949.905640,-98.952507 L -951.978027,41.621170"
+              class="id_Fernando_Montes_de_Oca id_Cine_Canibal"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -793.711121,548.156921 L -691.332886,664.394958"
+              class="id_Hispana id_Lo_que_dice_el_corazón" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -853.087585,396.002960 L -808.593872,522.747253"
+              class="id_Santago_Zapata id_Hispana" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -865.363037,368.749817 L -933.010742,247.471207"
+              class="id_Santago_Zapata id_Endemol" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 724.039368,-294.773010 L 643.654297,-142.132874"
+              class="id_Cinestereo id_Mi_piel_oculta" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 568.709656,-282.682007 L 716.208679,-305.729340"
+              class="id_Fernando_Chozas id_Cinestereo" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 546.737915,-293.551727 L 471.500000,-432.269012"
+              class="id_Fernando_Chozas id_ArtKingdom" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -373.234772,324.291718 L -514.564392,235.798523"
+              class="id_Cinemex id_El_Club_Perfecto" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.526337,50.133942 L -366.838898,318.647461"
+              class="id_María_José_Alvizúa_Rosado id_Cinemex"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -483.214264,33.216419 L -344.098297,1.714486"
+              class="id_María_José_Alvizúa_Rosado id_Disney"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 744.504211,-578.294189 L 656.805115,-465.150970"
+              class="id_Imagem id_Dreams_Sueños" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 240.177307,928.742615 L -57.947323,954.083313"
+              class="id_Dream_Sueños id_Michel_Franco" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 561.398499,-599.144287 L 738.710022,-590.850647"
+              class="id_Rene_Karam id_Imagem" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 531.523376,-601.646057 L 394.934174,-618.164612"
+              class="id_Rene_Karam id_Latam_Pictures" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 444.060150,272.585083 L 609.371521,53.081924"
+              class="id_Warner id_Batman_Azteca" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 585.916382,223.793564 L 448.949982,278.962769"
+              class="id_Fernanda_Ríos_Armesilla id_Warner" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 588.399475,208.476288 L 469.348145,107.314919"
+              class="id_Fernanda_Ríos_Armesilla id_Mantícora"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -494.484070,605.998413 L -381.176178,529.370178"
+              class="id_CNMG id_Un_mexicano_en_la_luna" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -540.588196,770.607239 L -510.070831,629.064514"
+              class="id_Israel_López id_CNMG" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -530.917053,793.037231 L -410.492462,865.924500"
+              class="id_Israel_López id_Canacine" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 920.684448,-290.341156 L 856.481934,-428.330353"
+              class="id_Mubi id_Amores_Perros" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 961.305359,-90.810783 L 929.732849,-261.989960"
+              class="id_Adolfo_Ontiveros id_Mubi" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 950.716309,-82.976974 L 822.351440,-149.691025"
+              class="id_Adolfo_Ontiveros id_Universal" stroke-opacity="1.0"
+              stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 840.350769,485.334564 L 721.711609,649.918396"
+              class="id_Salón_de_Belleza id_Lázaro_de_Noche"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 745.431763,347.144562 L 839.591553,461.583282"
+              class="id_Alejandra_Villalba id_Salón_de_Belleza"
+              stroke-opacity="1.0" stroke="#e70028"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 750.467773,331.981476 L 902.043945,294.729248"
+              class="id_Alejandra_Villalba id_Mantarraya" stroke-opacity="1.0"
+              stroke="#e70028"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="97.64676"
+                class="id_Videocine" cy="-437.21515" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="189.69688"
+                class="id_Una_pequeña_confusión" cy="-599.5867" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-337.70316"
+                class="id_Déjame_estar_contigo" cy="-273.86142" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="286.2922"
+                class="id_Loco_por_ella" cy="-455.39023" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-68.27494"
+                class="id_Mamá_reinventada" cy="-446.8966" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="385.2008"
+                class="id_Mirreyes_vs_Godinez:_Las_Vegas" cy="-290.99295"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="16.787521"
+                class="id_Desastre_en_familia" cy="-611.0835" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="292.3786"
+                class="id_Una_historia_de_Amor_y_Guerra" cy="-151.98003"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-160.53618"
+                class="id_Tormento" cy="-601.01324" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-135.72562"
+                class="id_Borrón_y_vida_nueva" cy="-282.05426" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="33.596066"
+                class="id_Sergio_López_Aguirre" cy="-259.55734" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="1.3117288"
+                class="id_Cinépolis" cy="50.39978" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="482.62512"
+                class="id_Sony" cy="-794.9012" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="280.4672"
+                class="id_Turno_Nocturno" cy="-753.9777" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="637.9832"
+                class="id_El_callejón_de_los_milagros" cy="-732.3666"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="356.46478"
+                class="id_María_Fernanda_Bateman" cy="-900.5557"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="183.71292"
+                class="id_Univisión" cy="-937.5338" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-230.9094"
+                class="id_Sujo" cy="-132.97563" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="157.28535"
+                class="id_La_Cocina" cy="88.51521" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-170.13406"
+                class="id_Corina" cy="63.596428" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-193.63892"
+                class="id_Guten_Tag_Ramón" cy="244.44029" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="125.48407"
+                class="id_¡Qué_huevos,_Sofía!" cy="-97.46921" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="108.35498"
+                class="id_Un_cuento_de_pescadores:_La_maldición_de_la_miringua"
+                cy="457.06717" stroke="#a1001c" stroke-opacity="1.0"
+                stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="127.82828"
+                class="id_Los_Adioses" cy="276.67322" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="198.29124"
+                class="id_Autos,_mota_y_rocanrrol" cy="-293.30286"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-28.074219"
+                class="id_Soy_Frankelda" cy="215.93088" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-61.058453"
+                class="id_La_Celda_de_los_Milagros" cy="-106.68201"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-45.77505"
+                class="id_No_me_sigas" cy="389.85608" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="311.93622"
+                class="id_Daniela_Arguedas" cy="9.428874" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="467.94577"
+                class="id_Paramount" cy="-98.663605" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="375.17294"
+                class="id_Piano" cy="693.245" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="399.08252"
+                class="id_El_Jockey" cy="495.4623" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="562.0732"
+                class="id_Leonora" cy="777.1049" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="549.61365"
+                class="id_El_Monstruo_de_Xibalba" cy="405.43997"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="411.26602"
+                class="id_El_Diablo_en_el_Camino" cy="860.6365" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="530.18823"
+                class="id_María_Ester_Bernal_Quezada" cy="607.74493"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="683.5639"
+                class="id_Alfaville" cy="505.83878" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-329.4687"
+                class="id_Disney" cy="-1.5982963" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-209.7496"
+                class="id_Mesa_de_regalos" cy="425.691" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-352.4549"
+                class="id_Sofía_Castilla_Sarky" cy="163.08151" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-547.1259"
+                class="id_Artegios" cy="-280.08032" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-446.70566"
+                class="id_De_luz_y_de_las_sombras" cy="-140.94774"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-709.6738"
+                class="id_La_Falla" cy="-330.68887" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-514.3338"
+                class="id_Hilando_Sones" cy="-599.5759" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-337.0048"
+                class="id_El_último_viaje" cy="-552.6782" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-626.4231"
+                class="id_José_Ramón_Mikelajauregui" cy="-473.80457"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-246.70023"
+                class="id_María_Josefina_Parra_Acuña" cy="-417.8319"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-450.45935"
+                class="id_FICUNAM" cy="-417.08688" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="87.68528"
+                class="id_Pimienta" cy="646.721" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-213.2127"
+                class="id_Lluvia" cy="606.7116" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="91.79773"
+                class="id_Memory" cy="940.48193" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-72.893425"
+                class="id_Michel_Franco" cy="955.35376" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="244.49503"
+                class="id_Lumbrensueño" cy="574.70026" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-56.127125"
+                class="id_No_nos_moverán" cy="574.37946" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="1.6233422"
+                class="id_Víctor_Leycegui" cy="786.317" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="208.31775"
+                class="id_Regina_Serratos" cy="768.2293" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-238.79381"
+                class="id_Neverlanding" cy="921.4166" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-163.83675"
+                class="id_Efímera" cy="768.7132" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-349.15616"
+                class="id_Alejandro_Sugich" cy="716.17224" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-397.6599"
+                class="id_Canacine" cy="873.69147" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="796.9398"
+                class="id_CanZion" cy="10.049454" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="777.8186"
+                class="id_Nosotros_los_de_la_fe" cy="171.01874" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="954.3745"
+                class="id_Abraham_Diaz" cy="110.94979" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="916.6105"
+                class="id_Mantarraya" cy="291.1493" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-687.4869"
+                class="id_Corazón" cy="317.68713" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-647.0328"
+                class="id_1938,_cuando_el_petróleo_fue_nuestro" cy="493.1496"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-788.71735"
+                class="id_Buen_Salvaje" cy="179.07918" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-646.7811"
+                class="id_Libertad_Rodríguez" cy="100.27553" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-513.0649"
+                class="id_IMCINE" cy="403.9037" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-219.06876"
+                class="id_Mandarina_Cine" cy="-770.7349" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-336.6263"
+                class="id_Arillo_de_Hombre_Muerto" cy="-904.76355"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-57.692867"
+                class="id_La_frontera_invisible" cy="-779.5322" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-501.51282"
+                class="id_Impostor(es)" cy="-819.07477" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-637.9578"
+                class="id_Después" cy="-713.4806" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-369.16922"
+                class="id_Carlos_Hernández_Velázquez" cy="-714.5214"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="13.646156"
+                class="id_Alondra_Martínez" cy="-953.42633" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-157.10094"
+                class="id_Avena_Distribución" cy="-946.9271" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="106.8806"
+                class="id_Fábula" cy="-775.88306" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="457.91754"
+                class="id_Mantícora" cy="97.60199" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="274.87393"
+                class="id_Pérdida_Total" cy="379.17242" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="292.03653"
+                class="id_José_Luis_Mejía_Razo" cy="194.51053" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-775.0784"
+                class="id_Benuca" cy="-183.07806" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-755.23395"
+                class="id_Goya" cy="-586.2374" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-916.4863"
+                class="id_El_Arranque" cy="-287.3075" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-622.30945"
+                class="id_Un_mundo_mejor" cy="-104.12132" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-786.3901"
+                class="id_Las_Mutaciones" cy="-10.029632" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-845.8747"
+                class="id_Itu_Ninu:_Cumbres_de_Maíz" cy="-443.6404"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-949.6845"
+                class="id_Fernando_Montes_de_Oca" cy="-113.950874"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-952.19916"
+                class="id_Cine_Canibal" cy="56.61954" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-803.62537"
+                class="id_Hispana" cy="536.9005" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-681.41864"
+                class="id_Lo_que_dice_el_corazón" cy="675.65137"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-858.0561"
+                class="id_Santago_Zapata" cy="381.84973" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-940.31775"
+                class="id_Endemol" cy="234.37128" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="731.0289"
+                class="id_Cinestereo" cy="-308.04504" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="636.6648"
+                class="id_Mi_piel_oculta" cy="-128.86082" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="553.88947"
+                class="id_Fernando_Chozas" cy="-280.3663" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="464.34845"
+                class="id_ArtKingdom" cy="-445.45444" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-360.52136"
+                class="id_Cinemex" cy="332.2522" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-527.27783"
+                class="id_El_Club_Perfecto" cy="227.83804" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-497.84387"
+                class="id_María_José_Alvizúa_Rosado" cy="36.5292"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="753.69366"
+                class="id_Imagem" cy="-590.1498" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="647.61566"
+                class="id_Dreams_Sueños" cy="-453.2954" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="255.12341"
+                class="id_Dream_Sueños" cy="927.47217" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="546.41486"
+                class="id_Rene_Karam" cy="-599.84515" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="380.04266"
+                class="id_Latam_Pictures" cy="-619.9655" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="435.0363"
+                class="id_Warner" cy="284.56714" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="618.3954"
+                class="id_Batman_Azteca" cy="41.09987" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="599.8301"
+                class="id_Fernanda_Ríos_Armesilla" cy="218.18921"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-506.9094"
+                class="id_CNMG" cy="614.4014" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-368.75085"
+                class="id_Un_mexicano_en_la_luna" cy="520.96716"
+                stroke="#a1001c" stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="-543.74963"
+                class="id_Israel_López" cy="785.2703" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="927.01215"
+                class="id_Mubi" cy="-276.74115" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="850.15424"
+                class="id_Amores_Perros" cy="-441.93036" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="964.02606"
+                class="id_Adolfo_Ontiveros" cy="-76.05959" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="809.0417"
+                class="id_Universal" cy="-156.6084" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="849.1221"
+                class="id_Salón_de_Belleza" cy="473.1664" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="712.9403"
+                class="id_Lázaro_de_Noche" cy="662.08655" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#e70028" r="13.8" cx="735.90125"
+                class="id_Alejandra_Villalba" cy="335.56143" stroke="#a1001c"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="18" x="97.64676" y="-433.94122" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Videocine">
+            Videocine
+        </text>
+        <text font-size="18" x="189.69688" y="-595.41626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Una_pequeña_confusión">
+            Una pequeña confusión
+        </text>
+        <text font-size="18" x="-337.70316" y="-269.67563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Déjame_estar_contigo">
+            Déjame estar contigo
+        </text>
+        <text font-size="18" x="286.2922" y="-451.27475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Loco_por_ella">
+            Loco por ella
+        </text>
+        <text font-size="18" x="-68.27494" y="-443.6051" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mamá_reinventada">
+            Mamá reinventada
+        </text>
+        <text font-size="18" x="385.2008" y="-286.7698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mirreyes_vs_Godinez:_Las_Vegas">
+            Mirreyes vs Godinez: Las Vegas
+        </text>
+        <text font-size="18" x="16.787521" y="-607.75464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Desastre_en_familia">
+            Desastre en familia
+        </text>
+        <text font-size="18" x="292.3786" y="-147.75688" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Una_historia_de_Amor_y_Guerra">
+            Una historia de Amor y Guerra
+        </text>
+        <text font-size="18" x="-160.53618" y="-597.7393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tormento">
+            Tormento
+        </text>
+        <text font-size="18" x="-135.72562" y="-277.86847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Borrón_y_vida_nueva">
+            Borrón y vida nueva
+        </text>
+        <text font-size="18" x="33.596066" y="-255.3342" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sergio_López_Aguirre">
+            Sergio López Aguirre
+        </text>
+        <text font-size="18" x="1.3117288" y="54.57019" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cinépolis">
+            Cinépolis
+        </text>
+        <text font-size="18" x="482.62512" y="-790.67804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sony">
+            Sony
+        </text>
+        <text font-size="18" x="280.4672" y="-750.7038" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Turno_Nocturno">
+            Turno Nocturno
+        </text>
+        <text font-size="18" x="637.9832" y="-728.1808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_El_callejón_de_los_milagros">
+            El callejón de los milagros
+        </text>
+        <text font-size="18" x="356.46478" y="-897.2642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_María_Fernanda_Bateman">
+            María Fernanda Bateman
+        </text>
+        <text font-size="18" x="183.71292" y="-934.2401" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Univisión">
+            Univisión
+        </text>
+        <text font-size="18" x="-230.9094" y="-128.75249" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sujo">
+            Sujo
+        </text>
+        <text font-size="18" x="157.28535" y="91.84627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_La_Cocina">
+            La Cocina
+        </text>
+        <text font-size="18" x="-170.13406" y="66.92748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Corina">
+            Corina
+        </text>
+        <text font-size="18" x="-193.63892" y="248.66344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Guten_Tag_Ramón">
+            Guten Tag Ramón
+        </text>
+        <text font-size="18" x="125.48407" y="-93.30319" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_¡Qué_huevos,_Sofía!">
+            ¡Qué huevos, Sofía!
+        </text>
+        <text font-size="18" x="108.35498" y="461.25296" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Un_cuento_de_pescadores:_La_maldición_de_la_miringua">
+            Un cuento de pescadores: La maldición de la miringua
+        </text>
+        <text font-size="18" x="127.82828" y="279.94714" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Los_Adioses">
+            Los Adioses
+        </text>
+        <text font-size="18" x="198.29124" y="-289.13464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Autos,_mota_y_rocanrrol">
+            Autos, mota y rocanrrol
+        </text>
+        <text font-size="18" x="-28.074219" y="220.15402" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Soy_Frankelda">
+            Soy Frankelda
+        </text>
+        <text font-size="18" x="-61.058453" y="-102.45886" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_La_Celda_de_los_Milagros">
+            La Celda de los Milagros
+        </text>
+        <text font-size="18" x="-45.77505" y="394.0243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_No_me_sigas">
+            No me sigas
+        </text>
+        <text font-size="18" x="311.93622" y="13.597087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Daniela_Arguedas">
+            Daniela Arguedas
+        </text>
+        <text font-size="18" x="467.94577" y="-95.38968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paramount">
+            Paramount
+        </text>
+        <text font-size="18" x="375.17294" y="696.5189" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Piano">
+            Piano
+        </text>
+        <text font-size="18" x="399.08252" y="499.63052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_El_Jockey">
+            El Jockey
+        </text>
+        <text font-size="18" x="562.0732" y="780.37885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Leonora">
+            Leonora
+        </text>
+        <text font-size="18" x="549.61365" y="408.7139" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_El_Monstruo_de_Xibalba">
+            El Monstruo de Xibalba
+        </text>
+        <text font-size="18" x="411.26602" y="863.9675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_El_Diablo_en_el_Camino">
+            El Diablo en el Camino
+        </text>
+        <text font-size="18" x="530.18823" y="611.27374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_María_Ester_Bernal_Quezada">
+            María Ester Bernal Quezada
+        </text>
+        <text font-size="18" x="683.5639" y="509.16763" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alfaville">
+            Alfaville
+        </text>
+        <text font-size="18" x="-329.4687" y="2.5699167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Disney">
+            Disney
+        </text>
+        <text font-size="18" x="-209.7496" y="429.85922" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mesa_de_regalos">
+            Mesa de regalos
+        </text>
+        <text font-size="18" x="-352.4549" y="167.30466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sofía_Castilla_Sarky">
+            Sofía Castilla Sarky
+        </text>
+        <text font-size="18" x="-547.1259" y="-275.9121" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Artegios">
+            Artegios
+        </text>
+        <text font-size="18" x="-446.70566" y="-136.77953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_De_luz_y_de_las_sombras">
+            De luz y de las sombras
+        </text>
+        <text font-size="18" x="-709.6738" y="-327.41495" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_La_Falla">
+            La Falla
+        </text>
+        <text font-size="18" x="-514.3338" y="-596.2449" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hilando_Sones">
+            Hilando Sones
+        </text>
+        <text font-size="18" x="-337.0048" y="-548.49243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_El_último_viaje">
+            El último viaje
+        </text>
+        <text font-size="18" x="-626.4231" y="-469.61877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_José_Ramón_Mikelajauregui">
+            José Ramón Mikelajauregui
+        </text>
+        <text font-size="18" x="-246.70023" y="-414.50085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_María_Josefina_Parra_Acuña">
+            María Josefina Parra Acuña
+        </text>
+        <text font-size="18" x="-450.45935" y="-413.75583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_FICUNAM">
+            FICUNAM
+        </text>
+        <text font-size="18" x="87.68528" y="649.99493" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pimienta">
+            Pimienta
+        </text>
+        <text font-size="18" x="-213.2127" y="609.98553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lluvia">
+            Lluvia
+        </text>
+        <text font-size="18" x="91.79773" y="944.65015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Memory">
+            Memory
+        </text>
+        <text font-size="18" x="-72.893425" y="958.6277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Michel_Franco">
+            Michel Franco
+        </text>
+        <text font-size="18" x="244.49503" y="577.9742" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lumbrensueño">
+            Lumbrensueño
+        </text>
+        <text font-size="18" x="-56.127125" y="577.67096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_No_nos_moverán">
+            No nos moverán
+        </text>
+        <text font-size="18" x="1.6233422" y="790.5028" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Víctor_Leycegui">
+            Víctor Leycegui
+        </text>
+        <text font-size="18" x="208.31775" y="772.45245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Regina_Serratos">
+            Regina Serratos
+        </text>
+        <text font-size="18" x="-238.79381" y="925.58484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Neverlanding">
+            Neverlanding
+        </text>
+        <text font-size="18" x="-163.83675" y="772.04205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Efímera">
+            Efímera
+        </text>
+        <text font-size="18" x="-349.15616" y="720.3954" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alejandro_Sugich">
+            Alejandro Sugich
+        </text>
+        <text font-size="18" x="-397.6599" y="877.0225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Canacine">
+            Canacine
+        </text>
+        <text font-size="18" x="796.9398" y="13.380508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CanZion">
+            CanZion
+        </text>
+        <text font-size="18" x="777.8186" y="174.3476" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nosotros_los_de_la_fe">
+            Nosotros los de la fe
+        </text>
+        <text font-size="18" x="954.3745" y="114.22372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Abraham_Diaz">
+            Abraham Diaz
+        </text>
+        <text font-size="18" x="916.6105" y="295.3175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mantarraya">
+            Mantarraya
+        </text>
+        <text font-size="18" x="-687.4869" y="321.0182" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Corazón">
+            Corazón
+        </text>
+        <text font-size="18" x="-647.0328" y="497.32" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_1938,_cuando_el_petróleo_fue_nuestro">
+            1938, cuando el petróleo fue nuestro
+        </text>
+        <text font-size="18" x="-788.71735" y="183.30232" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Buen_Salvaje">
+            Buen Salvaje
+        </text>
+        <text font-size="18" x="-646.7811" y="104.46132" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Libertad_Rodríguez">
+            Libertad Rodríguez
+        </text>
+        <text font-size="18" x="-513.0649" y="407.23474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_IMCINE">
+            IMCINE
+        </text>
+        <text font-size="18" x="-219.06876" y="-767.4039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mandarina_Cine">
+            Mandarina Cine
+        </text>
+        <text font-size="18" x="-336.6263" y="-901.4896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Arillo_de_Hombre_Muerto">
+            Arillo de Hombre Muerto
+        </text>
+        <text font-size="18" x="-57.692867" y="-776.20337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_La_frontera_invisible">
+            La frontera invisible
+        </text>
+        <text font-size="18" x="-501.51282" y="-814.8516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Impostor(es)">
+            Impostor(es)
+        </text>
+        <text font-size="18" x="-637.9578" y="-709.34753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Después">
+            Después
+        </text>
+        <text font-size="18" x="-369.16922" y="-710.351" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Carlos_Hernández_Velázquez">
+            Carlos Hernández Velázquez
+        </text>
+        <text font-size="18" x="13.646156" y="-950.1348" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alondra_Martínez">
+            Alondra Martínez
+        </text>
+        <text font-size="18" x="-157.10094" y="-943.6356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Avena_Distribución">
+            Avena Distribución
+        </text>
+        <text font-size="18" x="106.8806" y="-772.59155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fábula">
+            Fábula
+        </text>
+        <text font-size="18" x="457.91754" y="100.89349" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mantícora">
+            Mantícora
+        </text>
+        <text font-size="18" x="274.87393" y="382.46393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pérdida_Total">
+            Pérdida Total
+        </text>
+        <text font-size="18" x="292.03653" y="198.69632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_José_Luis_Mejía_Razo">
+            José Luis Mejía Razo
+        </text>
+        <text font-size="18" x="-775.0784" y="-179.80414" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Benuca">
+            Benuca
+        </text>
+        <text font-size="18" x="-755.23395" y="-582.0143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Goya">
+            Goya
+        </text>
+        <text font-size="18" x="-916.4863" y="-283.19202" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_El_Arranque">
+            El Arranque
+        </text>
+        <text font-size="18" x="-622.30945" y="-99.95311" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Un_mundo_mejor">
+            Un mundo mejor
+        </text>
+        <text font-size="18" x="-786.3901" y="-6.755706" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Las_Mutaciones">
+            Las Mutaciones
+        </text>
+        <text font-size="18" x="-845.8747" y="-440.30936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Itu_Ninu:_Cumbres_de_Maíz">
+            Itu Ninu: Cumbres de Maíz
+        </text>
+        <text font-size="18" x="-949.6845" y="-110.61762" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fernando_Montes_de_Oca">
+            Fernando Montes de Oca
+        </text>
+        <text font-size="18" x="-952.19916" y="59.950596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cine_Canibal">
+            Cine Canibal
+        </text>
+        <text font-size="18" x="-803.62537" y="541.016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hispana">
+            Hispana
+        </text>
+        <text font-size="18" x="-681.41864" y="679.7844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lo_que_dice_el_corazón">
+            Lo que dice el corazón
+        </text>
+        <text font-size="18" x="-858.0561" y="386.07288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Santago_Zapata">
+            Santago Zapata
+        </text>
+        <text font-size="18" x="-940.31775" y="237.6452" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Endemol">
+            Endemol
+        </text>
+        <text font-size="18" x="731.0289" y="-304.714" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cinestereo">
+            Cinestereo
+        </text>
+        <text font-size="18" x="636.6648" y="-124.745346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mi_piel_oculta">
+            Mi piel oculta
+        </text>
+        <text font-size="18" x="553.88947" y="-277.03525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fernando_Chozas">
+            Fernando Chozas
+        </text>
+        <text font-size="18" x="464.34845" y="-441.28622" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ArtKingdom">
+            ArtKingdom
+        </text>
+        <text font-size="18" x="-360.52136" y="335.58325" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cinemex">
+            Cinemex
+        </text>
+        <text font-size="18" x="-527.27783" y="231.1691" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_El_Club_Perfecto">
+            El Club Perfecto
+        </text>
+        <text font-size="18" x="-497.84387" y="39.822903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_María_José_Alvizúa_Rosado">
+            María José Alvizúa Rosado
+        </text>
+        <text font-size="18" x="753.69366" y="-585.98157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Imagem">
+            Imagem
+        </text>
+        <text font-size="18" x="647.61566" y="-449.96436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dreams_Sueños">
+            Dreams Sueños
+        </text>
+        <text font-size="18" x="255.12341" y="930.8032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dream_Sueños">
+            Dream Sueños
+        </text>
+        <text font-size="18" x="546.41486" y="-596.5712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rene_Karam">
+            Rene Karam
+        </text>
+        <text font-size="18" x="380.04266" y="-616.6916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Latam_Pictures">
+            Latam Pictures
+        </text>
+        <text font-size="18" x="435.0363" y="287.84106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Warner">
+            Warner
+        </text>
+        <text font-size="18" x="618.3954" y="44.373795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Batman_Azteca">
+            Batman Azteca
+        </text>
+        <text font-size="18" x="599.8301" y="221.48071" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fernanda_Ríos_Armesilla">
+            Fernanda Ríos Armesilla
+        </text>
+        <text font-size="18" x="-506.9094" y="617.7325" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CNMG">
+            CNMG
+        </text>
+        <text font-size="18" x="-368.75085" y="524.2433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Un_mexicano_en_la_luna">
+            Un mexicano en la luna
+        </text>
+        <text font-size="18" x="-543.74963" y="789.4034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Israel_López">
+            Israel López
+        </text>
+        <text font-size="18" x="927.01215" y="-273.46722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mubi">
+            Mubi
+        </text>
+        <text font-size="18" x="850.15424" y="-438.65643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Amores_Perros">
+            Amores Perros
+        </text>
+        <text font-size="18" x="964.02606" y="-72.72634" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Adolfo_Ontiveros">
+            Adolfo Ontiveros
+        </text>
+        <text font-size="18" x="809.0417" y="-153.33228" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Universal">
+            Universal
+        </text>
+        <text font-size="18" x="849.1221" y="476.49747" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Salón_de_Belleza">
+            Salón de Belleza
+        </text>
+        <text font-size="18" x="712.9403" y="665.37805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lázaro_de_Noche">
+            Lázaro de Noche
+        </text>
+        <text font-size="18" x="735.90125" y="339.72964" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alejandra_Villalba">
+            Alejandra Villalba
+        </text>
+    </g>
+</svg>

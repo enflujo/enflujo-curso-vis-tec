@@ -35,6 +35,11 @@ body {
   max-width: 980px;
 }
 
+.vis {
+  width: 100%;
+  display: block;
+}
+
 .serie,
 .meta,
 .etiqueta,
