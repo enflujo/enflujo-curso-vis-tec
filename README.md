@@ -47,7 +47,26 @@ Componentes: narrativa y flujo de elementos en la pantalla. Estructura de HTML y
 
 ### Semana 4 - 6 mayo
 
-Conectar nuestro sitio con fuentes de datos tanto estáticas como dinámicas: JSON, CSV, Baserow, CMS.
+<!-- Conectar nuestro sitio con fuentes de datos tanto estáticas como dinámicas: JSON, CSV, Baserow, CMS. -->
+Simulacro de estudio de diseño y desarrollo de proyecto. Entre todos trabajamos en uno de los proyectos del curso. Nos dividimos en equipos para cada una de las etapas del proceso:
+
+Fase 1:
+- Definir el proyecto.
+- Revisar el estado del proyecto actualmente.
+- Definir el público objetivo.
+- 
+
+Fase 2:
+
+* **Curaduría:** Pule los textos para que no sean "académicos ladrilludos", sino narrativos.
+* **Diseño:** Usa herramientas como Adobe Color o Pinterest para definir la estética.
+* **Desarrollo:** Crea la estructura HTML, el diseño CSS y la lógica JavaScript para que el proyecto funcione. Teniendo en cuenta las secciones que componen la narrativa del proyecto.
+* **Visualización:** Define qué visualizaciones se necesitan para contar la historia, y hazlas en Observable o D3.js. Luego las insertas en el sitio usando iframe o componentes personalizados.
+
+Fase 3:
+- Revisión cruzada entre equipos.
+- El Protocolo de Implementación: Los equipos presentan su trabajo. Los otros equipos "auditan": ¿El proyecto es claro? ¿Funciona? ¿Es atractivo? ¿Cumple con su objetivo de comunicación? ¿Qué se puede mejorar?
+- Compartir con los dueños del proyecto el material que cada grupo haya desarrollado.
 
 ### Semana 5 - 13 mayo
 
